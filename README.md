@@ -1,8 +1,8 @@
 ## 💜 Olá, meu nome é <strong>Nathan Do Carmo Silva!</strong>
 
-> Oii, eu sou o Nathan e sou um desenvolvedor full-stack 
+> Oii, eu sou o Nathan e sou um desenvolvedor full-stack.
 
-#🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Atualemente atuo projetando o site da [Var Solutions]([url](https://www.instituto.varsolutions.com.br/))
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
