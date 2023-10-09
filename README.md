@@ -6,7 +6,7 @@ Sou um desenvolvedor full-stack que atualmente trabalha no projeto do site da [V
 
 Aqui estão algumas das tecnologias com as quais trabalho:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,py,cs,java,spring,rabbitmq,redis,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,jquery,react,py,php,cs,java,spring,rabbitmq,redis,mysql,dart,flutter,wordpress,aws)](https://skillicons.dev)
 
 ## 📫 Entre em contato
 
