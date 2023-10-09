@@ -20,4 +20,6 @@ Se você quiser entrar em contato comigo ou fazer alguma pergunta, sinta-se à v
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathanzsilva&show_icons=true)
+![nathanzsilva's Stats](https://github-readme-stats.vercel.app/api?username=nathanzsilva&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![nathanzsilva's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathanzsilva&theme=dracula&hide_border=true)
+![nathanzsilva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanzsilva&theme=dracula&show_icons=true&hide_border=true&layout=compact)
